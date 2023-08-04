@@ -8,4 +8,4 @@ Non-commercial project сreated exclusively for educational purposes.
 
 ## Support
 - You can support with development by contact with me
-- You can support me on [Boosty](https://boosty.to/lowly/donate)
+- You can support me on [Boosty](https://boosty.to/lowly)
