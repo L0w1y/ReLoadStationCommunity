@@ -13,4 +13,4 @@ VK: [@lowly_on](https://vk.com/lowly_on)
   
   You can support me on [Boosty](https://boosty.to/lowly), or
   
-  <a href="https://www.buymeacoffee.com/lowly" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <a href="https://www.buymeacoffee.com/lowly"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=🥛&slug=lowly&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff" /></a>
